@@ -53,7 +53,6 @@
 
 <br />
 <br />
-<img width="550px" alt="alex akash"  src="https://github-readme-stats.vercel.app/api?username=alexaksh&show_icons=true"/>
 
 [![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=alexakash53&card_width=550)](https://github.com/alexakash53/alexakash53)
 
