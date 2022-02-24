@@ -2,12 +2,17 @@
 
 ### MERN Developer
 
-### Connect with me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/alexakash53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alexakash53" height="30" width="40" /></a>
+<a href="https://twitter.com/alexakash53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alexakash53" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alexakash53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexakash53" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/alexakash53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="alexakash53" height="30" width="40" /></a>
+<a href="https://fb.com/alexakash053" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alexakash053" height="30" width="40" /></a>
+<a href="https://instagram.com/alexakash53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexakash53" height="30" width="40" /></a>
+<a href="https://www.behance.net/alexakash53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="alexakash53" height="30" width="40" /></a>
+</p>
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/alexakash53/)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://web.facebook.com/alexakash053)
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=twitter&logoColor=ffffff)](https://twitter.com/alexakash53)
-[![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/alexakash53)
 
 
 <br />
