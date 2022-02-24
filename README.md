@@ -1,6 +1,6 @@
 ## Hi! I am Alex Akash
 
-### MERN Developer
+### Frontend Web Developer
 
 ### Connect with me:
 
@@ -50,15 +50,3 @@
 <br />
 
 <br />
-
-<br />
-<br />
-
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=alexakash53&card_width=550)](https://github.com/alexakash53/alexakash53)
-<br/>
-
-<br/>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexakash53&show_icons=true&locale=en" alt="alexakash53" /></p>
-
-[website]: http://alexakash53.netlify.app/
