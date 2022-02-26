@@ -45,7 +45,6 @@
 
 <img align="left" alt="Git" width="26px" src="https://i.ibb.co/7zs2TGW/git.png" />
 
-<img align="left" alt="Git" width="26px" src="https://i.ibb.co/fXQQ273/c.png" />
 
 <br />
 
